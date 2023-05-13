@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+input, textarea{
+    padding: 17px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background-color: #cfd3d0;
+    border: 1% solid #f0faf1;
+    color: #283629;
+    outline: none;
+}
+
+input::placeholder, textarea::placeholder{
+    color: #7980ec;
+    font-weight: bold;
+}
+
+.btn {
+    /* Para <button> */
+    font-family: inherit;
+    font-size: 125%;
+    line-height: inherit;
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 1%;
+  }
+
+
+
+
+
+
+
+
+
+
+
